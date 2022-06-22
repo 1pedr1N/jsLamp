@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 100px;
+   outline: none;
+}
+.on{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.off{
+    background-color: red;
+        border: 1px solid black;
+        border-radius: 10px;
+        padding: 10px;
+}
